@@ -1,11 +1,11 @@
 # 💫 About Me
 
-Hi, I’m **Anuj Keshri** 👋  
-I’m a **second-year Electrical Engineering student** with a strong interest in **Full-Stack Web Development** and **problem solving**.
+Hi, I’m **Anuj Keshri** 
+I’m a **third-year Electrical Engineering student** with a strong interest in **Full-Stack Web Development** and **problem solving**.
 
 I have completed the **MERN stack** and enjoy building real-world web applications using modern technologies. I focus on writing **clean, scalable, and maintainable code**, and I continuously work on improving my development skills. Alongside development, I am actively learning **Data Structures and Algorithms** to strengthen my core computer science fundamentals.
 
-I am also a member of my college **App Team** and have worked as an **Organizer for Hack on Hills 7.0**, where I gained hands-on experience in **teamwork, coordination, and leadership**.
+I am also a member of my college **Team Athletics**.
 
 I am always eager to learn new technologies, collaborate on impactful projects, and grow as a software engineer.
 
